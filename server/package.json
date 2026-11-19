@@ -1,0 +1,9 @@
+{
+  "name": "token-server",
+  "version": "1.0.0",
+  "main": "token.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "livekit-server-sdk": "^2.6.0"
+  }
+}
